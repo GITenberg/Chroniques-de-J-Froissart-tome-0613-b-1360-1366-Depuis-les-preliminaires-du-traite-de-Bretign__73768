@@ -1,0 +1,46 @@
+_repo: Chroniques-de-J-Froissart-tome-0613-b-1360-1366-Depuis-les-preliminaires-du-traite-de-Bretign__73768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Froissart, Jean
+    aliases:
+    - Froyssart, Johan
+    - Froissart, Jehan
+    - Froissart, John
+    - Frossardus, Joannes
+    gutenberg_agent_id: '5170'
+    url: http://www.gutenberg.org/2009/agents/5170
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Froissart
+    - https://fr.wikipedia.org/wiki/Jean_Froissart
+  editor:
+    agent_name: Luce, Siméon
+    alias: Luce, Simeon
+    birthdate: 1833
+    deathdate: 1892
+    gutenberg_agent_id: '56665'
+    url: http://www.gutenberg.org/2009/agents/56665
+    wikipedia: https://fr.wikipedia.org/wiki/Sim%C3%A9on_Luce
+description: ''
+gutenberg_issued: '2024-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73768'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k406147s
+pgterms:marc905: 20110103105256froissart
+pgterms:marc906: '1869'
+pgterms:marc907: FR
+production_note: Clarity, Hans Pieterse and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bVve J. Renouard, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chroniques de J. Froissart, tome 06/13 : $b 1360-1366 (Depuis les préliminaires
+  du traité de Brétigny jusqu''aux préparatifs de l''expédition du Prince de Galles
+  en Espagne)'
+url: http://www.gutenberg.org/ebooks/73768
