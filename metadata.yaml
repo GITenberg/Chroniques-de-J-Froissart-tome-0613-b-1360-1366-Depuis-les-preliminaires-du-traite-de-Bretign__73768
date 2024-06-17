@@ -1,5 +1,8 @@
 _repo: Chroniques-de-J-Froissart-tome-0613-b-1360-1366-Depuis-les-preliminaires-du-traite-de-Bretign__73768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73768-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56665
     wikipedia: https://fr.wikipedia.org/wiki/Sim%C3%A9on_Luce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73768#Chroniques-de-J-Froissart-tome-0613-b-1360-1366-Depuis-les-preliminaires-du-traite-de-Bretign_
 gutenberg_issued: '2024-06-04'
 gutenberg_type: Text
 identifiers:
